@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @xyzz1887
-- 👀 I’m interested in Reverse engineering & pretty much everything that has to do with IT
 - 🌱 I’m currently learning C++ 
 - 🔭 Currently working on C++ bot with [D++](https://github.com/brainboxdotcc/DPP) 
