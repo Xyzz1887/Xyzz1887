@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @xyzz1887
 - 🌱 I’m currently learning C++ 
-- 🔭 Currently working on C++ bot with [D++](https://github.com/brainboxdotcc/DPP) 
+- 🔭 Currently working on C++ Dicsord bot with [D++](https://github.com/brainboxdotcc/DPP) 
