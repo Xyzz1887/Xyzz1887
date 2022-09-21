@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Xyzz1887
 - 🌱 I’m currently learning C++ 
-- 🔭 Currently working on C++ Dicsord bot with [D++](https://github.com/brainboxdotcc/DPP) 
+- 🔭 Currently working on C++ Discord bot with [D++](https://github.com/brainboxdotcc/DPP) 
 - 🌐 [xyzz1887.xyz](https://xyzz1887.xyz) 
 - Using Arch btw
